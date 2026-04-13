@@ -13,7 +13,7 @@ let person = {              // non-primitive (object)
 };
 let colors = ["red", "blue", "green"]; // non-primitive (array)
 
-// 🔹 Printing all variables
+//Printing all variables
 console.log(name);     // primitive
 console.log(age);      // primitive
 console.log(isStudent);// primitive
